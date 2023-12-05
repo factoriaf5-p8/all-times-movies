@@ -1,5 +1,8 @@
-/* eslint no-undef: "off" */
-/* eslint jasmine/no-spec-dupes: "off" */
+import {describe, it, expect} from 'vitest';
+import {turnHoursToMinutes,
+  ratesAverage,
+  
+} from '../movies.js';
 
 describe('Turn duration of the movies - turnHoursToMinutes', function () {
   it('Defines turnHoursToMinutes', function () {
