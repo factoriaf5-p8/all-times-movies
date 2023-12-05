@@ -1,8 +1,8 @@
 import {describe, it, expect} from 'vitest';
 import {turnHoursToMinutes,
   ratesAverage,
-  
 } from '../movies.js';
+import {movies} from '../data.js';
 
 describe('Turn duration of the movies - turnHoursToMinutes', function () {
   it('Defines turnHoursToMinutes', function () {
