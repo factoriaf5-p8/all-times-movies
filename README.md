@@ -39,7 +39,9 @@ El array de películas se encuentra en  `data.js`. La estructura de cada objeto 
 
 
 ### Tests
-Lanza los tests con el comando `pnpm test` y comprobarás que se abre una página en el navegador con el resultado de los tests. Enfócate en un único test en cada momento y **lee cuidadosamente** las instrucciones de cada ejercicio
+- Para lanzar los tests tendrás que instalar las dependencias del proyecto con `pnpm install`.
+- Lanza los tests con el comando `pnpm test` y comprobarás que se abre una página en el navegador con el resultado de los tests.
+- Enfócate en un único test en cada momento y **lee cuidadosamente** las instrucciones de cada ejercicio.
 
 ### Iteración 1: Dando la hora!
 
